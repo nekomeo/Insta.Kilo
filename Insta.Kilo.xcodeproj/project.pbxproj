@@ -15,6 +15,7 @@
 		6AB742591F3B7B1100124482 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AB742571F3B7B1100124482 /* LaunchScreen.storyboard */; };
 		6AB742621F3B82E700124482 /* InstaPhotos.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AB742611F3B82E700124482 /* InstaPhotos.m */; };
 		6AB742651F3B839B00124482 /* PhotoCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AB742641F3B839B00124482 /* PhotoCollectionViewCell.m */; };
+		6AB742681F3BB4E600124482 /* HeaderCollectionReusableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AB742671F3BB4E600124482 /* HeaderCollectionReusableView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		6AB742611F3B82E700124482 /* InstaPhotos.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InstaPhotos.m; sourceTree = "<group>"; };
 		6AB742631F3B839B00124482 /* PhotoCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotoCollectionViewCell.h; sourceTree = "<group>"; };
 		6AB742641F3B839B00124482 /* PhotoCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhotoCollectionViewCell.m; sourceTree = "<group>"; };
+		6AB742661F3BB4E600124482 /* HeaderCollectionReusableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeaderCollectionReusableView.h; sourceTree = "<group>"; };
+		6AB742671F3BB4E600124482 /* HeaderCollectionReusableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeaderCollectionReusableView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				6AB742611F3B82E700124482 /* InstaPhotos.m */,
 				6AB742631F3B839B00124482 /* PhotoCollectionViewCell.h */,
 				6AB742641F3B839B00124482 /* PhotoCollectionViewCell.m */,
+				6AB742661F3BB4E600124482 /* HeaderCollectionReusableView.h */,
+				6AB742671F3BB4E600124482 /* HeaderCollectionReusableView.m */,
 				6AB742521F3B7B1100124482 /* Main.storyboard */,
 				6AB742551F3B7B1100124482 /* Assets.xcassets */,
 				6AB742571F3B7B1100124482 /* LaunchScreen.storyboard */,
@@ -160,6 +165,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6AB742681F3BB4E600124482 /* HeaderCollectionReusableView.m in Sources */,
 				6AB742621F3B82E700124482 /* InstaPhotos.m in Sources */,
 				6AB742511F3B7B1100124482 /* ViewController.m in Sources */,
 				6AB7424E1F3B7B1100124482 /* AppDelegate.m in Sources */,
